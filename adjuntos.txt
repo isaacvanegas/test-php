@@ -1,0 +1,15 @@
+//  <?php
+//include 'conexion.php';
+
+//  $quer ="SELECT * FROM usuario";
+
+//  $consulta= mysqli_query($conexion,$quer) or die("error mysql");
+
+//while ($resultado = mysqli_fetch_assoc($consulta)) {
+//$usuario= $resultado['usuario'];
+//$id = $resultado['Id'];
+//echo "<size = 3 color= black><center>";
+//echo "Id usuario: <b> " .$id."</b>    Nombre usuario: <b>".$usuario."</b> <a href='#' class='btn btn-link' name=$id data-toggle='modal' data-target='.bs-example-modal-sm-eliminar'>Eliminar</a><br>";
+//}
+
+  //?>
